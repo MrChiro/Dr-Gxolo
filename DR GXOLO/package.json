@@ -1,0 +1,25 @@
+{
+  "name": "dr-gxolo-sports-medicine",
+  "version": "1.0.0",
+  "description": "High-fidelity pre-launch visual prototype for Dr. Ingar Gxolo Sports & Exercise Medicine",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node -e \"console.log('Build ready for Vercel deployment')\""
+  },
+  "keywords": [
+    "sports-medicine",
+    "concussion",
+    "return-to-play",
+    "scat5",
+    "dr-ingar-gxolo",
+    "nextjs",
+    "framer-motion",
+    "tailwind"
+  ],
+  "author": "Design & Development Team",
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {}
+}
