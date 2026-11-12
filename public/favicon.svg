@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#0B4A3F"/>
+  <rect x="2" y="2" width="60" height="60" rx="14" stroke="#A3E635" stroke-opacity="0.3" stroke-width="2"/>
+  <!-- Medical Cross Accent -->
+  <path d="M26 14H38V26H50V38H38V50H26V38H14V26H26V14Z" fill="#062E27" stroke="#A3E635" stroke-width="2"/>
+  <!-- ECG Line across cross -->
+  <path d="M12 32H24L28 20L34 44L38 28L42 34L46 32H52" stroke="#A3E635" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
